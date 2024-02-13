@@ -8,3 +8,7 @@ def add(x,y):
 
 def sub(x,y):
     pass
+
+def mul(x,y):
+    pass
+
